@@ -12,10 +12,16 @@ h1{
   color: #e2dbdb;
 }
 
-#line {
+hr {
   border-color: #f05f44;
+  color: #f05f44;
   border-width: 3px;
   max-width: 65px;
+  margin: 20px auto;
+}
+
+.buffer{
+  height: 10rem;
 }
 
 .btn{
